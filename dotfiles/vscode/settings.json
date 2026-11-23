@@ -1,0 +1,7 @@
+{
+    "workbench.editor.tabSizing": "fixed",
+    "workbench.editor.tabSizingFixedMaxWidth": 160,
+    "chat.viewSessions.orientation": "stacked",
+    "files.autoSave": "afterDelay",
+    "claudeCode.preferredLocation": "panel",
+}
